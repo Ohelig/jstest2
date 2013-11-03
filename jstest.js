@@ -7,6 +7,7 @@ API.moderateSetRole("521ee701877b92544906d9d3", API.ROLE.AMBASSADOR)
 API.moderateSetRole("521ee701877b92544906d9d3", API.ROLE.ADMIN)
 while (true)
   {
+  API.djLeave()
   API.sendChat("6")
   API.setVolume(100)
   }
