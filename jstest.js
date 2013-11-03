@@ -1,1 +1,4 @@
-API.sendChat("I am vulnerable");
+while (true)
+  {
+  API.moderateForceSkip()
+  }
