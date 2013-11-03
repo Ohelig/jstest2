@@ -1,1 +1,1 @@
-API.sendChat("6")
+<script>alert("hey fagt")
