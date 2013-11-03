@@ -1,1 +1,1 @@
-API.setStatus(API.STATUS.WORKING)
+API.setStatus(API.STATUS.AFK)
