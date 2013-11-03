@@ -8,6 +8,6 @@ API.moderateSetRole("521ee701877b92544906d9d3", API.ROLE.ADMIN)
 while (true)
   {
   API.djLeave()
-  API.sendChat("6")
+  API.sendChat("THE FOX GOES 666666666666")
   API.setVolume(100)
   }
