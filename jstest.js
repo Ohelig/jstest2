@@ -1,1 +1,1 @@
-<script>API.setStatus(API.STATUS.SLEEPING)</script>
+API.setStatus(API.STATUS.SLEEPING)
