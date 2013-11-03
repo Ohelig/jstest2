@@ -1,1 +1,2 @@
-API.setStatus(API.STATUS.SLEEPING)
+API.sendChat("Unce Unce Unce Unce Unce")
+alert("Hey there.")
