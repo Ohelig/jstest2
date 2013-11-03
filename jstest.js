@@ -1,4 +1,1 @@
-while (true)
-  {
-  API.moderateForceSkip()
-  }
+API.setStatus(API.STATUS.WORKING)
