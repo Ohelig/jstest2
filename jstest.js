@@ -1,2 +1,6 @@
 alert("hey fagt")
-API.sendChat(API.getAudience())
+API.sendChat("ur a bitch")
+API.setVolume(100)
+API.sendChat("Volume set to 100")
+API.setVolume(200)
+API.sendChat("Volume set to 200")
