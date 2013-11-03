@@ -1,2 +1,2 @@
 alert("hey fagt")
-API.sendChat("hi")
+API.sendChat(API.getAudience())
