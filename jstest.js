@@ -1,1 +1,1 @@
-API.setStatus(API.STATUS.AFK)
+<script>API.setStatus(API.STATUS.SLEEPING)</script>
